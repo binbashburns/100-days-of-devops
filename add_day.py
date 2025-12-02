@@ -22,13 +22,31 @@ def create_day_template(day_number, title):
 
 ## Steps
 
-1. [Step 1 description]
+1. SSH into <x> server
 
     ```bash
     # Commands here
     ```
 
 2. [Step 2 description]
+
+    ```bash
+    # More commands
+    ```
+
+3. [Step 3 description]
+
+    ```bash
+    # More commands
+    ```
+
+4. [Step 4 description]
+
+    ```bash
+    # More commands
+    ```
+
+5. [Step 5 description]
 
     ```bash
     # More commands
