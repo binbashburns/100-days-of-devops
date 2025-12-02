@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/binbashburns/100-days-of-devops?style=social)](https://github.com/binbashburns/100-days-of-devops/stargazers)
 [![100 Days](https://img.shields.io/badge/100%20Days-DevOps%20Challenge-orange)](https://kodekloud.com/100-days-of-devops)
-[![Progress](https://img.shields.io/badge/Progress-0%2F100%20Days-red)](https://github.com/binbashburns/100-days-of-devops)
+[![Progress](https://img.shields.io/badge/Progress-4%2F100%20Days-red)](https://github.com/binbashburns/100-days-of-devops/tree/main/days)
 
 **Documentation of KodeKloud's 100 Days of DevOps Challenge with solutions, configurations, and notes.**
 
@@ -27,7 +27,7 @@ Objectives:
 
 ## Progress Overview
 
-![4%](https://progress-bar.xyz/0)
+![4%](https://progress-bar.xyz/4)
 
 **Current Status: Day 5 of 100**
 *Journey Started: December 1, 2025*
@@ -142,7 +142,7 @@ Create new daily challenge files:
 
 ## Connect
 
-- [GitHub](https://githubs.com/binbashburns): Follow for project updates
+- [GitHub](https://github.com/binbashburns): Follow for project updates
 - [LinkedIn](https://linkedin.com/in/binbashburns): Networking
 - [Website](https://binbashburns.com): Live resume
 
