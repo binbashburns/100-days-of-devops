@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/binbashburns/100-days-of-devops?style=social)](https://github.com/binbashburns/100-days-of-devops/stargazers)
 [![100 Days](https://img.shields.io/badge/100%20Days-DevOps%20Challenge-orange)](https://kodekloud.com/100-days-of-devops)
-[![Progress](https://img.shields.io/badge/Progress-12%2F100%20Days-red)](https://github.com/binbashburns/100-days-of-devops/tree/main/days)
+[![Progress](https://img.shields.io/badge/Progress-13%2F100%20Days-red)](https://github.com/binbashburns/100-days-of-devops/tree/main/days)
 
 **Documentation of KodeKloud's 100 Days of DevOps Challenge with solutions, configurations, and notes.**
 
@@ -27,11 +27,11 @@ Objectives:
 
 ## Progress Overview
 
-![12%](https://progress-bar.xyz/12)
+![13%](https://progress-bar.xyz/13)
 
-**Current Status: Day 13 of 100**
+**Current Status: Day 14 of 100**
 *Journey Started: December 1, 2025*
-*Last Updated: December 3, 2025*
+*Last Updated: December 4, 2025*
 
 ## Learning Path
 
