@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/binbashburns/100-days-of-devops?style=social)](https://github.com/binbashburns/100-days-of-devops/stargazers)
 [![100 Days](https://img.shields.io/badge/100%20Days-DevOps%20Challenge-orange)](https://kodekloud.com/100-days-of-devops)
-[![Progress](https://img.shields.io/badge/Progress-19%2F100%20Days-red)](https://github.com/binbashburns/100-days-of-devops/tree/main/days)
+[![Progress](https://img.shields.io/badge/Progress-22%2F100%20Days-red)](https://github.com/binbashburns/100-days-of-devops/tree/main/days)
 
 **Documentation of KodeKloud's 100 Days of DevOps Challenge with solutions, configurations, and notes.**
 
@@ -27,13 +27,13 @@ Objectives:
 
 ## Progress Overview
 
-![19%](https://progress-bar.xyz/19)
+![12%](https://progress-bar.xyz/22)
 
-**Current Status: Day 20 of 100**
+**Current Status: Day 23 of 100**
 
 *Journey Started: December 1, 2025*
 
-*Last Updated: December 10, 2025*
+*Last Updated: December 11, 2025*
 
 ## Learning Path
 
@@ -145,7 +145,6 @@ Create new daily challenge files:
 ## Connect
 
 - [GitHub](https://github.com/binbashburns): Follow for project updates
-- [LinkedIn](https://linkedin.com/in/binbashburns): Networking
 - [Website](https://binbashburns.com): Live resume
 
 ## Acknowledgments
