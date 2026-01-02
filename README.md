@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/binbashburns/100-days-of-devops?style=social)](https://github.com/binbashburns/100-days-of-devops/stargazers)
 [![100 Days](https://img.shields.io/badge/100%20Days-DevOps%20Challenge-rebeccapurple)](https://kodekloud.com/100-days-of-devops)
-[![Progress](https://img.shields.io/badge/Progress-43%2F100%20Days-e1a651)](https://github.com/binbashburns/100-days-of-devops/tree/main/days)
+[![Progress](https://img.shields.io/badge/Progress-43%2F100%20Days-e9ad58)](https://github.com/binbashburns/100-days-of-devops/tree/main/days)
 
 **Documentation of KodeKloud's 100 Days of DevOps Challenge with solutions, configurations, and notes.**
 
