@@ -1,0 +1,26 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  creationTimestamp: null
+  labels:
+    app: grafana-deployment-devops
+  name: grafana-deployment-devops
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: grafana-deployment-devops
+  strategy: {}
+  template:
+    metadata:
+      creationTimestamp: null
+      labels:
+        app: grafana-deployment-devops
+    spec:
+      containers:
+      - image: grafana/grafana:latest
+        name: grafana
+        ports:
+        - containerPort: 3000
+        resources: {}
+status: {}
