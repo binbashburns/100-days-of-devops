@@ -3,7 +3,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/binbashburns/100-days-of-devops?style=social)](https://github.com/binbashburns/100-days-of-devops/stargazers)
 [![100 Days](https://img.shields.io/badge/100%20Days-DevOps%20Challenge-rebeccapurple)](https://kodekloud.com/100-days-of-devops)
-[![Progress](https://img.shields.io/badge/Progress-60%2F100%20Days-dfa34d)](https://github.com/binbashburns/100-days-of-devops/tree/main/days)
+[![Progress](https://img.shields.io/badge/Progress-61%2F100%20Days-dfa34d)](https://github.com/binbashburns/100-days-of-devops/tree/main/days)
 
 **Documentation of KodeKloud's 100 Days of DevOps Challenge with solutions, configurations, and notes.**
 
@@ -27,9 +27,9 @@ Objectives:
 
 ## Progress Overview
 
-![60%](https://progress-bar.xyz/60)
+![61%](https://progress-bar.xyz/61)
 
-**Current Status: Day 60 of 100**
+**Current Status: Day 61 of 100**
 
 *Journey Started: December 1, 2025*
 
@@ -64,51 +64,6 @@ Objectives:
 - Infrastructure as Code (Terraform)
 - Configuration management (Ansible)
 - Monitoring solutions
-
-## Technology Stack
-
-### Core Infrastructure
-- **Operating Systems**: Linux (CentOS, Ubuntu, RHEL)
-- **Cloud Platforms**: AWS, Azure
-- **Virtualization**: VirtualBox, VMware, Docker
-- **Networking**: TCP/IP, DNS, Load Balancing
-
-### Development Tools
-- **Scripting Languages**: Bash, Python
-- **Configuration Languages**: YAML, JSON, HCL
-- **Version Control**: Git, GitHub
-- **Text Editors**: VS Code, vim, nano
-
-### Container Technologies
-- **Container Runtimes**: Docker, Podman
-- **Orchestration**: Kubernetes
-- **Registries**: Docker Hub, Harbor, ECR
-- **Service Mesh**: Istio (advanced topics)
-
-### Automation & CI/CD
-- **Pipeline Tools**: Jenkins, GitHub Actions
-- **Infrastructure as Code**: Terraform, CloudFormation
-- **Configuration Management**: Ansible
-- **Testing**: Unit tests, Integration tests
-
-### Monitoring & Observability
-- **Metrics**: Prometheus, CloudWatch
-- **Visualization**: Grafana
-- **Logging**: ELK Stack, Fluentd
-- **Tracing**: Jaeger (advanced concepts)
-
-### Databases & Web Services
-- **Relational Databases**: MySQL, PostgreSQL, MariaDB
-- **Web Servers**: Nginx, Apache HTTP Server
-- **Load Balancers**: HAProxy, Nginx, AWS ALB
-- **Caching**: Redis, Memcached
-
-## Approach
-
-- Document working solutions with explanations
-- Include troubleshooting steps and common issues
-- Test configurations in lab environments
-- Document my journey in the open!
 
 ## Resources
 
